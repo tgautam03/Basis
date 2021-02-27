@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/Tensor/include/MatrixDb.h
+iostream
+-
+fstream
+-
+cmath
+-
+
+../lib/Tensor/include/MatrixInt.h
+iostream
+-
+fstream
+-
+cmath
+-
+
+/home/tushar/Dev/c++/Basis/test/matrixTest.cpp
+./include/MatrixInt.h
+/home/tushar/Dev/c++/Basis/test/include/MatrixInt.h
+./include/MatrixDb.h
+/home/tushar/Dev/c++/Basis/test/include/MatrixDb.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/matrixDb.dir/test/matrixTest.cpp.o  -o matrixDb  -Wl,-rpath,/home/tushar/Dev/c++/Basis/build/lib/Tensor lib/Tensor/libtensor.so 

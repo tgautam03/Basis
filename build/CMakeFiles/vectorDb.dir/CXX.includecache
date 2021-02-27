@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/Tensor/include/VectorDb.h
+iostream
+-
+fstream
+-
+cmath
+-
+
+../lib/Tensor/include/VectorInt.h
+iostream
+-
+fstream
+-
+cmath
+-
+
+/home/tushar/Dev/c++/Basis/test/vectorTest.cpp
+./include/VectorInt.h
+/home/tushar/Dev/c++/Basis/test/include/VectorInt.h
+./include/VectorDb.h
+/home/tushar/Dev/c++/Basis/test/include/VectorDb.h
+

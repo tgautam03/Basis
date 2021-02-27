@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/vectorDb.dir/test/vectorTest.cpp.o  -o vectorDb  -Wl,-rpath,/home/tushar/Dev/c++/Basis/build/lib/Tensor lib/Tensor/libtensor.so 

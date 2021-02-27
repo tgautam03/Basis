@@ -1,0 +1,7 @@
+/home/tushar/Dev/c++/Basis/build/CMakeFiles/edit_cache.dir
+/home/tushar/Dev/c++/Basis/build/CMakeFiles/rebuild_cache.dir
+/home/tushar/Dev/c++/Basis/build/CMakeFiles/matrixDb.dir
+/home/tushar/Dev/c++/Basis/build/CMakeFiles/vectorDb.dir
+/home/tushar/Dev/c++/Basis/build/lib/Tensor/CMakeFiles/rebuild_cache.dir
+/home/tushar/Dev/c++/Basis/build/lib/Tensor/CMakeFiles/edit_cache.dir
+/home/tushar/Dev/c++/Basis/build/lib/Tensor/CMakeFiles/tensor.dir
